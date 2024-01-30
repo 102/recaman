@@ -1,0 +1,24 @@
+{
+  "name": "recaman",
+  "version": "1.0.0",
+  "description": "Recamán's sequence",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/102/recaman.git"
+  },
+  "keywords": [
+    "recaman",
+    "sequence"
+  ],
+  "author": "Roman Gusev <rgusev2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/102/recaman/issues"
+  },
+  "homepage": "https://github.com/102/recaman#readme"
+}
