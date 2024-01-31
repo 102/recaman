@@ -1,5 +1,5 @@
 export function recaman(n) {
-  if (n < 0) return NaN;
+  if (n < 0 || !Number.isInteger(n)) return NaN;
   if (n === 0) return 0;
   const seq = new Set([0]);
   let prev = 0;
